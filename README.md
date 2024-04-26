@@ -58,5 +58,3 @@ This project demonstrates a simple phishing email detection system using a K-Nea
 - Streamlit
 
 ---
-
-Feel free to customize the README according to your project's specifics or add any additional information you find necessary. If you have any questions or need further assistance, let me know!
