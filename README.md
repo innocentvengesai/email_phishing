@@ -1,6 +1,7 @@
 # Phishing Email Detection
 
 This project demonstrates a simple phishing email detection system using a K-Nearest Neighbors (KNN) classifier trained on a dataset of email subjects and bodies.
+Open Notebook to for viewing the code,
 
 ## Installation
 
@@ -46,8 +47,7 @@ This project demonstrates a simple phishing email detection system using a K-Nea
 
 - `train_model.py`: Script to preprocess the data, train the KNN model, and save it.
 - `app.py`: Streamlit app for interacting with the trained model.
-- `Ling.csv`: Sample dataset of emails (replace with your own dataset).
-- `requirements.txt`: List of Python dependencies for the project.
+- `dataset.csv`: Sample dataset of emails (replace with your own dataset).
 
 ## Requirements
 
